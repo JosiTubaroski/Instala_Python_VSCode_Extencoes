@@ -5,6 +5,8 @@ Curso de Programação com Python - Bóson Treinamentos
 
 1) Para baixar o python, acessar o site python.org
 
-https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/01_Instalacao_Python.GIF
+![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/01_Instalacao_Python.GIF)
+
+
 
    

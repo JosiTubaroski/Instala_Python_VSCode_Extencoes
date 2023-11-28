@@ -25,4 +25,19 @@ Curso de Programação com Python - Bóson Treinamentos
 
 ![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/05_Setup_Progress.GIF)
    
+3) Setup Finalizado
+
+![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/06_Setup_Finalizado.GIF)
+
+A instalação do Python foi finalizada.
+
+Para verificar se foi instalado, verificar Adicionados recentementes.
+
+![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/07_Ver_Instalado.GIF)
+
+
+
+
+
+
    

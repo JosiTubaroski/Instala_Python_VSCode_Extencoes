@@ -20,7 +20,9 @@ Curso de Programação com Python - Bóson Treinamentos
 1) Instalando o Python, clique duplo na versão baixada.
 
 ![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/04_Instalando_o_Python.GIF)
-   
 
+2) Marcar a opção 'Add python.exe to PATH' e 'Use admin privilege when installing py.exe'
+
+![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/05_Setup_Progress.GIF)
    
    

@@ -15,5 +15,12 @@ Curso de Programação com Python - Bóson Treinamentos
    
 ![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/03_Baixar_Visual_StudioCode.GIF)
 
+### Instalação
 
+1) Instalando o Python, clique duplo na versão baixada.
+
+![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/04_Instalando_o_Python.GIF)
+   
+
+   
    

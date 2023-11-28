@@ -9,6 +9,10 @@ Curso de Programação com Python - Bóson Treinamentos
 
 2) Realizar o download do Python
 
+![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/02_Download_Python.GIF)
+
+   
+
 
 
    

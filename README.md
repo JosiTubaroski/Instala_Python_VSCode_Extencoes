@@ -65,6 +65,11 @@ Clique duplo para Abrir o VSCode.
 
 ![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/15_vs_icons.GIF) 
   
+- Terceira extensão (Code Runner)
 
+![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/16_CodeRunner.GIF) 
+  
+Após a etapa de instalação das extensões Abrir um Pasta para criação dos projetos.
 
+![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/17_OpenFolder.GIF) 
    

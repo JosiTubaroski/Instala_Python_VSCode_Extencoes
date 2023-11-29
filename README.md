@@ -53,9 +53,15 @@ Clique duplo para Abrir o VSCode.
 
 ![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/12_Abrindo_VisualCode.GIF)
 
-### Instalando extensões para facilitar a progrmação com Python
+### Instalando extensões para facilitar a programação com Python
 
 ![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/13_Extensoes.GIF)
+
+- Primeira extensão
+
+![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/14_Primeira_Extensao.GIF) 
+
+
 
 
    

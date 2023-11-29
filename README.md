@@ -45,7 +45,9 @@ Selecionar Proximo até a conclusão da Instalação
 
 ![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/10_Visual_Code_Finalizado.GIF)
 
+Após finalizar a instalação será apresentado o icone do Visual Code.
 
+![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/11_Visual_StudioInstalado.GIF)
 
 
 

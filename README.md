@@ -15,7 +15,7 @@ Curso de Programação com Python - Bóson Treinamentos
    
 ![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/03_Baixar_Visual_StudioCode.GIF)
 
-### Instalação
+### Instalação Python
 
 1) Instalando o Python, clique duplo na versão baixada.
 
@@ -35,6 +35,15 @@ Para verificar se foi instalado, verificar Adicionados recentementes.
 
 ![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/07_Ver_Instalado.GIF)
 
+### Instalação VsCode
+
+![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/08_Instalando_Visual_Code.GIF)
+
+![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/09_Instalando_VisualStudio.GIF)
+
+Selecionar Proximo até a conclusão da Instalação
+
+![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/10_Visual_Code_Finalizado.GIF)
 
 
 

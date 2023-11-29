@@ -61,7 +61,10 @@ Clique duplo para Abrir o VSCode.
 
 ![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/14_Primeira_Extensao.GIF) 
 
+- Segunda extensão
 
+![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/15_vs_icons.GIF) 
+  
 
 
    

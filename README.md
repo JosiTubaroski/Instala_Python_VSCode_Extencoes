@@ -1,7 +1,7 @@
-# Programacao com Python
-Curso de Programação com Python - Bóson Treinamentos
+# Instalação do Python, editor VS CODE e extensões
 
-### Instalação do Python, editor VS CODE e extensões
+Programacao com Python
+Curso de Programação com Python - Bóson Treinamentos
 
 1) Para baixar o python, acessar o site python.org
 

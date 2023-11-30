@@ -79,6 +79,22 @@ Após a etapa de instalação das extensões Abrir um Pasta para criação dos p
   
 - Após criação da Pasta, clicar em selecionar.
 
-É importante ter uma pasta para que os arquivos fiquem todos organizados.
+### É importante ter uma pasta para que os arquivos fiquem todos organizados.
+
+## Realizando o teste para verificar se a instação foi corretamente realizada.
+
+- Criar o arquivo teste.py
+
+![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/19_Testes_Python.GIF) 
+
+- É interessante deixa um Auto Save marcado, para evitar perdas de código.
+
+![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/20_Auto_Save.GIF) 
+
+- Executar o Teste
+
+![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/21_Executar_Teste.GIF) 
+  
+Nessa etapa foram feitas as instalações e um primeiro teste em python.  
 
 

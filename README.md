@@ -72,4 +72,9 @@ Clique duplo para Abrir o VSCode.
 Após a etapa de instalação das extensões Abrir um Pasta para criação dos projetos.
 
 ![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/17_OpenFolder.GIF) 
+
+- No Exemplo abaixo estamos criando no C:\Python-Projetos
+
+![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/18_Python_Projetos.GIF) 
+  
    

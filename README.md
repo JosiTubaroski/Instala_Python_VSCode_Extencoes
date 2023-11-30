@@ -77,4 +77,8 @@ Após a etapa de instalação das extensões Abrir um Pasta para criação dos p
 
 ![Estrutura Projeto](https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/18_Python_Projetos.GIF) 
   
-   
+- Após criação da Pasta, clicar em selecionar.
+
+É importante ter uma pasta para que os arquivos fiquem todos organizados.
+
+
